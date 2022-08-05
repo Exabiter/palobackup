@@ -1,0 +1,6 @@
+<Configuration>
+        <User>admin</User>
+        <Password encrypted="true">40486a3642707145793770372a444677</Password>
+        <SCPPath>backupuser@h00t1001vftp01.txhhsc.txnet.state.tx.us:D:/SCP_Root/Perimeter_Security/Palo_Alto/"</SCPPath>
+        <SCPPassword>870shotgun</SCPPassword>
+</Configuration>

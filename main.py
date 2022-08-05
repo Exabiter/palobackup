@@ -35,7 +35,7 @@
 #
 # Return values: the script will return a 0 if no errors were detected and a non-zero value if errors were detected.
 #
-# Install dependencies: paramiko, netmiko
+# Install dependencies: paramiko, netmiko. Install at the CLI with: pip install paramiko netmiko
 import time
 import sys
 import requests
